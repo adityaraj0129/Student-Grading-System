@@ -37,11 +37,6 @@ Database	MongoDB / MySQL
 Tools	Axios, Postman, Git, VS Code
 🧰 Frontend Setup
 
-Clone the repository:
-
-git clone https://github.com/your-username/Student-Grading-System.git
-
-
 Navigate to the frontend folder:
 
 cd frontend
@@ -68,3 +63,4 @@ Include authentication (Login/Signup) for teachers and students.
 Allow exporting grade reports as PDFs.
 
 Add dark/light mode toggle for better UX.
+
